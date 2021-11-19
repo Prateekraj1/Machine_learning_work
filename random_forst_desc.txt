@@ -1,0 +1,8 @@
+data location=from sklearn.datasets import load_breast_cancer
+
+My model Predicts Breasts cancer with 98%+ accuracy.
+
+Lib used-sklearn
+	 pandas
+	 numpy
+	 matplotlib
